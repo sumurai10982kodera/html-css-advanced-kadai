@@ -993,7 +993,6 @@ footer{
  #mission-title{
   width: 136px;
   height: 256px;
-  position: absolute;
   top: -10%;
  }
 
@@ -1117,7 +1116,7 @@ footer{
 
  .product-section-right .product-read{
   order: 2;
-  border-radius: 300px 0 0 0;
+  border-radius: 100%;
  }
 
 }
