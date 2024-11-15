@@ -646,7 +646,7 @@ h3{
 }
 
 .product-section-right .product-read {
- width: 500px;
+ width: 50%;
 }
 
 .product-h2 {
@@ -1103,7 +1103,9 @@ footer{
   border-radius: 0 300px 0 0;
  }
 
- .product-section-left .product-read{
+ .product-section-left .product-read,
+ .product-section-right .product-read
+ {
   width: 100%;
   flex-grow: 1;
  }
